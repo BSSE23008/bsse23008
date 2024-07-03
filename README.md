@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**bsse23008/bsse23008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmad Khan, a future Software Engineer passionate about crafting clean and efficient code. Currently pursuing my studies at Information Technology University, where I am honing my skills in software development and exploring various technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development and C++ Projects.
+
+- 🌱 I’m currently learning Web Development -> Html, CSS, JavaScript and frameworks like Node Js and React Native.
+
+- 👯 I’m looking to collaborate on any project related to Web development.
+
+- 🤔 I’m looking for help with Web Development concepts.
+
+- 💬 Ask me about anything related to C++ programming and web development.
+
+- 📫 How to reach me: ahmadumer8595@gmail.com
+
+- ⚡ Fun fact: ... I love arm-wrestling!
+
