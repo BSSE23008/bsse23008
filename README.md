@@ -1,6 +1,3 @@
-
-![ahmad](./ahmad.jpg)
-
 ## Hi there 👋
 
 I'm Ahmad Khan, a future Software Engineer passionate about crafting clean and efficient code. Currently pursuing my studies at Information Technology University, where I am honing my skills in software development and exploring various technologies.
