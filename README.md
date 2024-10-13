@@ -15,7 +15,7 @@ I'm Ahmad Khan, a Junior Software Engineer passionate about crafting clean and e
 
 - 📫 How to reach me: ahmadumer8595@gmail.com
 
-- ⚡ Fun fact: ... I love arm-wrestling!
+- #free_palestine
 
 ## Skills 
 
